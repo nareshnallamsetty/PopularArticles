@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Articles List View Controller-->
+        <scene sceneID="gK5-0f-1wz">
+            <objects>
+                <viewController storyboardIdentifier="ArticlesListViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Cpa-gx-cf8" customClass="ArticlesListViewController" customModule="PopularArticles" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="BRS-vT-Xa5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="100" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="jwf-Rz-ynW">
+                                <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="ArticlesCell" rowHeight="105" id="Amj-ED-ybh" customClass="ArticlesCell" customModule="PopularArticles" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="28" width="375" height="105"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Amj-ED-ybh" id="MEu-9D-6Ph">
+                                            <rect key="frame" x="0.0" y="0.0" width="342" height="104.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="H.I.V. Is Reported Cured in a Second Patient, a Milestone in the Global AIDS Epidemic" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1pH-Xq-lmO">
+                                                    <rect key="frame" x="50" y="5" width="282" height="40"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="40" id="mLn-rF-tDW"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="15"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="By THE NEW YORK TIMES MAGAZINE" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumFontSize="11" translatesAutoresizingMaskIntoConstraints="NO" id="9HK-wi-iHa">
+                                                    <rect key="frame" x="50" y="45" width="274" height="35"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="35" id="tNe-kt-0kB"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Tg0-ME-2nJ">
+                                                    <rect key="frame" x="212" y="75" width="120" height="20"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="120" id="4CN-Di-PUT"/>
+                                                        <constraint firstAttribute="height" constant="20" id="IAQ-Wz-4AF"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                                                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="5" maxY="0.0"/>
+                                                    <state key="normal" title="2017-06-23" image="Calendar">
+                                                        <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    </state>
+                                                </button>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="44E-er-ekO">
+                                                    <rect key="frame" x="5" y="32.5" width="40" height="40"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="40" id="EMc-IY-bgg"/>
+                                                        <constraint firstAttribute="width" constant="40" id="P4W-zo-J9d"/>
+                                                    </constraints>
+                                                </imageView>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="1pH-Xq-lmO" firstAttribute="leading" secondItem="44E-er-ekO" secondAttribute="trailing" constant="5" id="HzS-va-Nd4"/>
+                                                <constraint firstItem="1pH-Xq-lmO" firstAttribute="leading" secondItem="MEu-9D-6Ph" secondAttribute="leading" constant="50" id="JvL-aJ-KVd"/>
+                                                <constraint firstItem="Tg0-ME-2nJ" firstAttribute="top" secondItem="9HK-wi-iHa" secondAttribute="bottom" constant="-5" id="K5W-SK-X7P"/>
+                                                <constraint firstItem="9HK-wi-iHa" firstAttribute="leading" secondItem="1pH-Xq-lmO" secondAttribute="leading" id="LRS-N0-JUq"/>
+                                                <constraint firstItem="44E-er-ekO" firstAttribute="centerY" secondItem="MEu-9D-6Ph" secondAttribute="centerY" id="NEa-75-LIq"/>
+                                                <constraint firstAttribute="trailing" secondItem="1pH-Xq-lmO" secondAttribute="trailing" constant="10" id="NyF-mN-Z5D"/>
+                                                <constraint firstItem="1pH-Xq-lmO" firstAttribute="top" secondItem="MEu-9D-6Ph" secondAttribute="top" constant="5" id="NzC-AI-kxJ"/>
+                                                <constraint firstItem="44E-er-ekO" firstAttribute="leading" secondItem="MEu-9D-6Ph" secondAttribute="leading" constant="5" id="ahd-Yf-ygA"/>
+                                                <constraint firstAttribute="trailing" secondItem="Tg0-ME-2nJ" secondAttribute="trailing" constant="10" id="ccB-nC-gX5"/>
+                                                <constraint firstAttribute="trailingMargin" secondItem="9HK-wi-iHa" secondAttribute="trailing" constant="10" id="k4l-2Q-DBH"/>
+                                                <constraint firstItem="9HK-wi-iHa" firstAttribute="top" secondItem="1pH-Xq-lmO" secondAttribute="bottom" id="qFm-6j-JSq"/>
+                                            </constraints>
+                                        </tableViewCellContentView>
+                                        <connections>
+                                            <outlet property="articleImageView" destination="44E-er-ekO" id="HZE-mQ-j68"/>
+                                            <outlet property="byLineLabel" destination="9HK-wi-iHa" id="wJc-3Z-ftV"/>
+                                            <outlet property="publishedDateButton" destination="Tg0-ME-2nJ" id="AG7-HF-RFe"/>
+                                            <outlet property="titleLabel" destination="1pH-Xq-lmO" id="Qtc-ip-pOm"/>
+                                        </connections>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="0ci-T4-VzR" firstAttribute="bottom" secondItem="jwf-Rz-ynW" secondAttribute="bottom" id="Amj-1G-0s1"/>
+                            <constraint firstItem="jwf-Rz-ynW" firstAttribute="leading" secondItem="0ci-T4-VzR" secondAttribute="leading" id="Tzh-zq-GE7"/>
+                            <constraint firstItem="0ci-T4-VzR" firstAttribute="trailing" secondItem="jwf-Rz-ynW" secondAttribute="trailing" id="arI-6y-MOO"/>
+                            <constraint firstItem="jwf-Rz-ynW" firstAttribute="top" secondItem="0ci-T4-VzR" secondAttribute="top" id="wfA-nx-sV6"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="0ci-T4-VzR"/>
+                    </view>
+                    <connections>
+                        <outlet property="articlesTableView" destination="jwf-Rz-ynW" id="MUf-I5-wIP"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="UnJ-3e-8TB" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="132.68365817091455"/>
+        </scene>
+        <!--Article Details View Controller-->
+        <scene sceneID="J5r-y0-QiT">
+            <objects>
+                <viewController storyboardIdentifier="ArticleDetailsViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="dNq-9h-Xk6" customClass="ArticleDetailsViewController" customModule="PopularArticles" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="tCr-LP-4nb">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pxe-hJ-UIe">
+                                <rect key="frame" x="10" y="30" width="355" height="21.5"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Author" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vpj-cV-7x8">
+                                <rect key="frame" x="10" y="61.5" width="355" height="18"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Published Date" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7RH-uE-gGa">
+                                <rect key="frame" x="10" y="89.5" width="355" height="18"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Abstract" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rAw-IS-jJh">
+                                <rect key="frame" x="10" y="117.5" width="355" height="14"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="KoW-hQ-lox">
+                                <rect key="frame" x="37.5" y="151.5" width="300" height="300"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="ELa-pS-dba"/>
+                                    <constraint firstAttribute="height" constant="300" id="ZP3-0V-Ufy"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="rAw-IS-jJh" firstAttribute="leading" secondItem="fXs-S1-2Ts" secondAttribute="leading" constant="10" id="3zL-w7-jdD"/>
+                            <constraint firstItem="fXs-S1-2Ts" firstAttribute="trailing" secondItem="Pxe-hJ-UIe" secondAttribute="trailing" constant="10" id="4nO-rB-P9d"/>
+                            <constraint firstItem="Pxe-hJ-UIe" firstAttribute="top" secondItem="fXs-S1-2Ts" secondAttribute="top" constant="10" id="7W3-3t-gjc"/>
+                            <constraint firstItem="KoW-hQ-lox" firstAttribute="top" secondItem="rAw-IS-jJh" secondAttribute="bottom" constant="20" id="GXu-qY-guZ"/>
+                            <constraint firstItem="rAw-IS-jJh" firstAttribute="top" secondItem="7RH-uE-gGa" secondAttribute="bottom" constant="10" id="Lvr-pE-tr2"/>
+                            <constraint firstItem="fXs-S1-2Ts" firstAttribute="trailing" secondItem="rAw-IS-jJh" secondAttribute="trailing" constant="10" id="Mne-ow-YYl"/>
+                            <constraint firstItem="Pxe-hJ-UIe" firstAttribute="leading" secondItem="fXs-S1-2Ts" secondAttribute="leading" constant="10" id="Vwg-wn-13W"/>
+                            <constraint firstItem="7RH-uE-gGa" firstAttribute="leading" secondItem="fXs-S1-2Ts" secondAttribute="leading" constant="10" id="cih-q0-Abg"/>
+                            <constraint firstItem="vpj-cV-7x8" firstAttribute="leading" secondItem="fXs-S1-2Ts" secondAttribute="leading" constant="10" id="eDv-nh-Rtt"/>
+                            <constraint firstItem="vpj-cV-7x8" firstAttribute="top" secondItem="Pxe-hJ-UIe" secondAttribute="bottom" constant="10" id="eQM-Uk-s9A"/>
+                            <constraint firstItem="7RH-uE-gGa" firstAttribute="top" secondItem="vpj-cV-7x8" secondAttribute="bottom" constant="10" id="hdy-pC-psf"/>
+                            <constraint firstItem="KoW-hQ-lox" firstAttribute="centerX" secondItem="tCr-LP-4nb" secondAttribute="centerX" id="jMs-Xq-baB"/>
+                            <constraint firstItem="fXs-S1-2Ts" firstAttribute="trailing" secondItem="vpj-cV-7x8" secondAttribute="trailing" constant="10" id="umy-tq-6Di"/>
+                            <constraint firstItem="fXs-S1-2Ts" firstAttribute="trailing" secondItem="7RH-uE-gGa" secondAttribute="trailing" constant="10" id="x9Q-s8-KT8"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="fXs-S1-2Ts"/>
+                    </view>
+                    <connections>
+                        <outlet property="abstractLabel" destination="rAw-IS-jJh" id="Aph-6O-2dY"/>
+                        <outlet property="articleImageView" destination="KoW-hQ-lox" id="GIL-LP-Bhb"/>
+                        <outlet property="bylineLabel" destination="vpj-cV-7x8" id="sBj-Nh-Bph"/>
+                        <outlet property="publishedDateLabel" destination="7RH-uE-gGa" id="cNi-T6-hNf"/>
+                        <outlet property="titleLabel" destination="Pxe-hJ-UIe" id="NwO-Dn-JpI"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ltR-S9-kI4" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="904.79999999999995" y="135.38230884557723"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Calendar" width="22.5" height="22.5"/>
+    </resources>
+</document>
