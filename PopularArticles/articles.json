@@ -1,0 +1,2051 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+   "num_results":1701,
+   "results":[
+      {
+         "url":"https://www.nytimes.com/2019/03/14/world/boeing-737-max-ethiopian-airlines.html",
+         "adx_keywords":"Boeing 737 Max Groundings and Safety Concerns (2019);Aviation Accidents, Safety and Disasters;Getachew, Yared;Boeing Company;Federal Aviation Administration;Ethiopian Airlines",
+         "column":null,
+         "section":"World",
+         "byline":"By SELAM GEBREKIDAN and JAMES GLANZ",
+         "type":"Article",
+         "title":"Boeing 737 Max Hit Trouble Right Away, Pilot’s Tense Radio Messages Show",
+         "abstract":"“Break break, request back to home,” the captain of the ill-fated Ethiopian Airlines flight radioed air traffic controllers minutes after taking off.",
+         "published_date":"2019-03-14",
+         "source":"The New York Times",
+         "id":100000006410242,
+         "asset_id":100000006410242,
+         "views":1,
+         "des_facet":[
+            "BOEING 737 MAX GROUNDINGS AND SAFETY CONCERNS (2019)",
+            "AVIATION ACCIDENTS, SAFETY AND DISASTERS"
+         ],
+         "org_facet":[
+            "BOEING COMPANY",
+            "FEDERAL AVIATION ADMINISTRATION",
+            "ETHIOPIAN AIRLINES"
+         ],
+         "per_facet":[
+            "GETACHEW, YARED"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A memorial arch on Thursday at the site of the jet crash in Ethiopia.",
+               "copyright":"Jemal Countess/Getty Images",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/14boeing3-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/14boeing3-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/merlin_152065434_33572a0b-6187-4937-91b4-26f1c7ac6fe3-articleInline.jpg",
+                     "format":"Normal",
+                     "height":143,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/merlin_152065434_33572a0b-6187-4937-91b4-26f1c7ac6fe3-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/merlin_152065434_33572a0b-6187-4937-91b4-26f1c7ac6fe3-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":771,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/merlin_152065434_33572a0b-6187-4937-91b4-26f1c7ac6fe3-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1542,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/14boeing3-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/14boeing3-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/14boeing3-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/business/14boeing3/14boeing3-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/15/world/asia/new-zealand-shooting.html",
+         "adx_keywords":"Murders, Attempted Murders and Homicides;Christchurch, New Zealand, Attack (March 2019);Mosques;Terrorism;Muslims and Islam;New Zealand;Social Media;Christchurch (New Zealand)",
+         "column":null,
+         "section":"World",
+         "byline":"By THE NEW YORK TIMES",
+         "type":"Article",
+         "title":"Jacinda Ardern Consoles Families After New Zealand Shooting",
+         "abstract":"The attack on two mosques, which appeared to have been carried out by a white extremist, left 49 dead in the city of Christchurch.",
+         "published_date":"2019-03-15",
+         "source":"The New York Times",
+         "id":100000006412038,
+         "asset_id":100000006412038,
+         "views":2,
+         "des_facet":[
+            "MURDERS, ATTEMPTED MURDERS AND HOMICIDES",
+            "CHRISTCHURCH, NEW ZEALAND, ATTACK (MARCH 2019)",
+            "MOSQUES"
+         ],
+         "org_facet":[
+            "TERRORISM",
+            "MUSLIMS AND ISLAM",
+            "SOCIAL MEDIA"
+         ],
+         "per_facet":"",
+         "geo_facet":[
+            "NEW ZEALAND",
+            "CHRISTCHURCH (NEW ZEALAND)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A makeshift memorial in Christchurch, New Zealand, on Saturday.",
+               "copyright":"Matthew Abbott for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-square320-v2.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-articleInline-v2.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-sfSpan-v2.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-jumbo-v2.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-superJumbo-v2.jpg",
+                     "format":"superJumbo",
+                     "height":1366,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-square640-v2.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-thumbLarge-v2.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/16/world/16nz-shooting-2/16nz-shooting-2-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/12/us/felicity-huffman-lori-loughlin-massimo-giannulli.html",
+         "adx_keywords":"College Admissions Scandal (2019);Admissions Standards;Colleges and Universities;Bribery and Kickbacks;Cheating;Frauds and Swindling;Huffman, Felicity;Loughlin, Lori;Giannulli, Mossimo",
+         "column":null,
+         "section":"U.S.",
+         "byline":"By REBECCA HALLECK",
+         "type":"Article",
+         "title":"Who’s Been Charged in the College Admissions Cheating Scandal? Here’s the Full List",
+         "abstract":"The actresses Felicity Huffman and Lori Loughlin and the fashion designer Mossimo Giannulli are among the 50 people charged in a bribery scheme to secure places for students in elite colleges.",
+         "published_date":"2019-03-12",
+         "source":"The New York Times",
+         "id":100000006406229,
+         "asset_id":100000006406229,
+         "views":3,
+         "des_facet":[
+            "ADMISSIONS STANDARDS",
+            "COLLEGES AND UNIVERSITIES",
+            "BRIBERY AND KICKBACKS",
+            "FRAUDS AND SWINDLING"
+         ],
+         "org_facet":[
+            "COLLEGE ADMISSIONS SCANDAL (2019)",
+            "CHEATING"
+         ],
+         "per_facet":[
+            "HUFFMAN, FELICITY",
+            "LOUGHLIN, LORI",
+            "GIANNULLI, MOSSIMO"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"From left: Lori Loughlin, Mossimo Giannulli and Felicity Huffman.",
+               "copyright":"From left: AFP -- Getty Images; Reuters and AP",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1365,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-whois-hp/12college-whois-alt-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/16/style/snowplow-parenting-scandal.html",
+         "adx_keywords":"Admissions Standards;Colleges and Universities;College Admissions Scandal (2019);Parenting;Tests and Examinations;SAT (College Admission Test);Education (K-12)",
+         "column":null,
+         "section":"Style",
+         "byline":"By CLAIRE CAIN MILLER and JONAH ENGEL BROMWICH",
+         "type":"Article",
+         "title":"How Parents Are Robbing Their Children of Adulthood",
+         "abstract":"Today’s “snowplow parents” keep their children’s futures obstacle-free — even when it means crossing ethical and legal boundaries.",
+         "published_date":"2019-03-16",
+         "source":"The New York Times",
+         "id":100000006411881,
+         "asset_id":100000006411881,
+         "views":4,
+         "des_facet":[
+            "ADMISSIONS STANDARDS",
+            "COLLEGES AND UNIVERSITIES",
+            "PARENTING",
+            "TESTS AND EXAMINATIONS"
+         ],
+         "org_facet":[
+            "COLLEGE ADMISSIONS SCANDAL (2019)",
+            "SAT (COLLEGE ADMISSION TEST)",
+            "EDUCATION (K-12)"
+         ],
+         "per_facet":"",
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-articleInline-v4.jpg",
+                     "format":"Normal",
+                     "height":193,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-jumbo-v5.jpg",
+                     "format":"Jumbo",
+                     "height":1024,
+                     "width":1010
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-superJumbo-v6.jpg",
+                     "format":"superJumbo",
+                     "height":2048,
+                     "width":2019
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/style/17snowplow-1/17snowplow-1-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/12/us/college-admissions-cheating-scandal.html",
+         "adx_keywords":"College Admissions Scandal (2019);Colleges and Universities;Admissions Standards;Cheating;Bribery and Kickbacks;Frauds and Swindling;Singer, William Rick;Edge College and Career Network;Huffman, Felicity;Loughlin, Lori;McGlashan, William E Jr;Yale University;Wake Forest University;Stanford University;University of Southern California",
+         "column":null,
+         "section":"U.S.",
+         "byline":"By JENNIFER MEDINA, KATIE BENNER and KATE TAYLOR",
+         "type":"Article",
+         "title":"Actresses, Business Leaders and Other Wealthy Parents Charged in U.S. College Entry Fraud",
+         "abstract":"A sprawling federal investigation accuses 50 people of involvement in a scheme to get undeserving students into major American universities.",
+         "published_date":"2019-03-12",
+         "source":"The New York Times",
+         "id":100000006406075,
+         "asset_id":100000006406075,
+         "views":5,
+         "des_facet":[
+            "COLLEGES AND UNIVERSITIES",
+            "ADMISSIONS STANDARDS",
+            "CHEATING"
+         ],
+         "org_facet":[
+            "COLLEGE ADMISSIONS SCANDAL (2019)",
+            "BRIBERY AND KICKBACKS",
+            "FRAUDS AND SWINDLING",
+            "EDGE COLLEGE AND CAREER NETWORK",
+            "YALE UNIVERSITY",
+            "WAKE FOREST UNIVERSITY",
+            "STANFORD UNIVERSITY",
+            "UNIVERSITY OF SOUTHERN CALIFORNIA"
+         ],
+         "per_facet":[
+            "SINGER, WILLIAM RICK",
+            "HUFFMAN, FELICITY",
+            "LOUGHLIN, LORI",
+            "MCGLASHAN, WILLIAM E JR"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Steven Senne/Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/12college-raid-sub-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/12college-raid-sub-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/12college-raid-sub-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/12college-raid-sub-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/merlin_151961982_3cc89d22-45d1-4c6a-a580-f337e98acd58-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":666,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/merlin_151961982_3cc89d22-45d1-4c6a-a580-f337e98acd58-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1331,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/12college-raid-sub-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/12college-raid-sub-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/12college-raid-sub-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/12/us/12college-raid-sub/12college-raid-sub-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/18/business/trump-deutsche-bank.html",
+         "adx_keywords":"Trump, Donald J;Deutsche Bank AG;Banking and Financial Institutions;Real Estate (Commercial);United States Politics and Government;Presidential Election of 2016;Credit and Debt;Trump Organization;Jain, Anshu;Vrablic, Rosemary T;Kushner, Jared;Offit, Mike;Manhattan (NYC);Kennedy, Justin A;Trump International Hotel and Tower (Chicago, Ill)",
+         "column":null,
+         "section":"Business",
+         "byline":"By DAVID ENRICH",
+         "type":"Article",
+         "title":"A Mar-a-Lago Weekend and an Act of God: Trump’s History With Deutsche Bank",
+         "abstract":"Deutsche Bank’s hunger for profits and risk led it to lend Donald Trump more than $2 billion. Once he was elected president, employees were told not to utter his name.",
+         "published_date":"2019-03-18",
+         "source":"The New York Times",
+         "id":100000006408304,
+         "asset_id":100000006408304,
+         "views":6,
+         "des_facet":[
+            "BANKING AND FINANCIAL INSTITUTIONS",
+            "UNITED STATES POLITICS AND GOVERNMENT",
+            "PRESIDENTIAL ELECTION OF 2016"
+         ],
+         "org_facet":[
+            "DEUTSCHE BANK AG",
+            "REAL ESTATE (COMMERCIAL)",
+            "CREDIT AND DEBT",
+            "TRUMP ORGANIZATION",
+            "TRUMP INTERNATIONAL HOTEL AND TOWER (CHICAGO, ILL)"
+         ],
+         "per_facet":[
+            "TRUMP, DONALD J",
+            "JAIN, ANSHU",
+            "VRABLIC, ROSEMARY T",
+            "KUSHNER, JARED",
+            "OFFIT, MIKE",
+            "KENNEDY, JUSTIN A"
+         ],
+         "geo_facet":[
+            "MANHATTAN (NYC)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A Chicago skyscraper was the focus of a court battle between Mr. Trump and Deutsche Bank that equated the 2008 financial crisis with an act of God.",
+               "copyright":"Nathan Weber for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/00deutschetrump7-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/19deutsche-4-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/merlin_105779095_a31267d5-ed98-4dac-83ee-a4944e284f21-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/merlin_105779095_a31267d5-ed98-4dac-83ee-a4944e284f21-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/merlin_105779095_a31267d5-ed98-4dac-83ee-a4944e284f21-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/merlin_105779095_a31267d5-ed98-4dac-83ee-a4944e284f21-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1365,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/00deutschetrump7-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/19deutsche-4-thumbLarge-v2.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/merlin_105779095_a31267d5-ed98-4dac-83ee-a4944e284f21-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/business/19deutsche-4/merlin_105779095_a31267d5-ed98-4dac-83ee-a4944e284f21-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/13/business/canada-737-max.html",
+         "adx_keywords":"Boeing Company;Airlines and Airplanes;Aviation Accidents, Safety and Disasters;Federal Aviation Administration;Regulation and Deregulation of Industry;Ethiopian Airlines;Lion Air;Trump, Donald J;United States Politics and Government;Boeing 737 Max Groundings and Safety Concerns (2019)",
+         "column":null,
+         "section":"Business",
+         "byline":"By THOMAS KAPLAN, IAN AUSTEN and SELAM GEBREKIDAN",
+         "type":"Article",
+         "title":"Boeing Planes Are Grounded in U.S. After Days of Pressure",
+         "abstract":"The American agency was the last major holdout as other countries grounded or banned Max planes from their airspace after the deadly Ethiopian Airlines crash this weekend.",
+         "published_date":"2019-03-13",
+         "source":"The New York Times",
+         "id":100000006408102,
+         "asset_id":100000006408102,
+         "views":7,
+         "des_facet":[
+            "AIRLINES AND AIRPLANES",
+            "AVIATION ACCIDENTS, SAFETY AND DISASTERS",
+            "BOEING 737 MAX GROUNDINGS AND SAFETY CONCERNS (2019)"
+         ],
+         "org_facet":[
+            "BOEING COMPANY",
+            "FEDERAL AVIATION ADMINISTRATION",
+            "REGULATION AND DEREGULATION OF INDUSTRY",
+            "ETHIOPIAN AIRLINES",
+            "LION AIR",
+            "UNITED STATES POLITICS AND GOVERNMENT"
+         ],
+         "per_facet":[
+            "TRUMP, DONALD J"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Federal Aviation Administration had for days resisted calls to ground the 737 Max even as safety regulators in some 42 countries had banned flights by the jets. A Boeing 737 Max 8 at La Guardia Airport on Tuesday.",
+               "copyright":"Chang W. Lee/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-square320-v2.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-articleInline-v2.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-sfSpan-v2.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-jumbo-v2.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-superJumbo-v2.jpg",
+                     "format":"superJumbo",
+                     "height":1365,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-square640-v2.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-thumbLarge-v2.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-mediumThreeByTwo210-v3.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/business/15boeing-promo/13boeing-promo-mediumThreeByTwo440-v3.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/18/opinion/jared-kushner-ivanka-trump-corruption.html",
+         "adx_keywords":"United States International Relations;United States Politics and Government;Foreign Investments;Brookfield Asset Management;Kushner, Charles;Kushner, Jared;Trump, Donald J;Trump, Ivanka;Ward, Vicky;Qatar;Corruption (Institutional)",
+         "column":null,
+         "section":"Opinion",
+         "byline":"By MICHELLE GOLDBERG",
+         "type":"Article",
+         "title":"Who Do Jared and Ivanka Think They Are?",
+         "abstract":"A new book probes the Kushner family’s secrets.",
+         "published_date":"2019-03-18",
+         "source":"The New York Times",
+         "id":100000006415889,
+         "asset_id":100000006415889,
+         "views":8,
+         "des_facet":[
+            "UNITED STATES INTERNATIONAL RELATIONS",
+            "UNITED STATES POLITICS AND GOVERNMENT",
+            "FOREIGN INVESTMENTS",
+            "CORRUPTION (INSTITUTIONAL)"
+         ],
+         "org_facet":[
+            "BROOKFIELD ASSET MANAGEMENT"
+         ],
+         "per_facet":[
+            "KUSHNER, CHARLES",
+            "KUSHNER, JARED",
+            "TRUMP, DONALD J",
+            "TRUMP, IVANKA",
+            "WARD, VICKY"
+         ],
+         "geo_facet":[
+            "QATAR"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jared Kushner and Ivanka Trump boarding Air Force One.",
+               "copyright":"Al Drago for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/18goldbergWeb-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/18goldbergWeb-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/merlin_140557536_c49df0b0-0711-4001-82cd-d8c03f72662f-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/merlin_140557536_c49df0b0-0711-4001-82cd-d8c03f72662f-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/merlin_140557536_c49df0b0-0711-4001-82cd-d8c03f72662f-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/merlin_140557536_c49df0b0-0711-4001-82cd-d8c03f72662f-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1365,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/18goldbergWeb-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/18goldbergWeb-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/18goldbergWeb-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/18/opinion/18goldbergWeb/18goldbergWeb-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/16/world/australia/australia-anning-egg-new-zealand-shooting.html",
+         "adx_keywords":"Anning, Fraser;Australia;Immigration and Emigration;Muslims and Islam;Christchurch, New Zealand, Attack (March 2019);Deaths (Fatalities)",
+         "column":null,
+         "section":"World",
+         "byline":"By PALKO KARASZ",
+         "type":"Article",
+         "title":"Australian Senator Hit With Egg After Blaming Immigration for Mosque Attacks",
+         "abstract":"A teenager in Melbourne, Australia, cracked an egg on the head of Senator Fraser Anning, who then struck his assailant twice in the face, footage shows.",
+         "published_date":"2019-03-16",
+         "source":"The New York Times",
+         "id":100000006414041,
+         "asset_id":100000006414041,
+         "views":9,
+         "des_facet":[
+            "IMMIGRATION AND EMIGRATION",
+            "CHRISTCHURCH, NEW ZEALAND, ATTACK (MARCH 2019)",
+            "DEATHS (FATALITIES)"
+         ],
+         "org_facet":[
+            "MUSLIMS AND ISLAM"
+         ],
+         "per_facet":[
+            "ANNING, FRASER"
+         ],
+         "geo_facet":[
+            "AUSTRALIA"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A young man smashed an egg on the head of Senator Fraser Anning of Australia on Saturday in Melbourne.",
+               "copyright":"Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-articleInline.jpg",
+                     "format":"Normal",
+                     "height":119,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":682,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1365,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/world/17nz-anning/16nz-anning-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/13/nyregion/manafort-indictment.html",
+         "adx_keywords":"Manafort, Paul J;Vance, Cyrus R Jr;Trump, Donald J;New York State;Russian Interference in 2016 US Elections and Ties to Trump Associates;Mortgages;Frauds and Swindling",
+         "column":null,
+         "section":"New York",
+         "byline":"By WILLIAM K. RASHBAUM",
+         "type":"Article",
+         "title":"New York Charges Manafort With 16 Crimes. If He’s Convicted, Trump Can’t Pardon Him.",
+         "abstract":"The charges are part of an effort to ensure he will still face prison time if President Trump pardons him for his federal crimes.",
+         "published_date":"2019-03-13",
+         "source":"The New York Times",
+         "id":100000006407929,
+         "asset_id":100000006407929,
+         "views":10,
+         "des_facet":[
+            "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+            "FRAUDS AND SWINDLING"
+         ],
+         "org_facet":[
+            "MORTGAGES"
+         ],
+         "per_facet":[
+            "MANAFORT, PAUL J",
+            "VANCE, CYRUS R JR",
+            "TRUMP, DONALD J"
+         ],
+         "geo_facet":[
+            "NEW YORK STATE"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Paul J. Manafort, President Trump’s former campaign chairman, has been indicted on new fraud charges in New York.",
+               "copyright":"Jonathan Ernst/Reuters",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/13nymanafort-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/13nymanafort-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/merlin_151762272_cc443df7-e087-49d5-8c52-2b22e4212be5-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/merlin_151762272_cc443df7-e087-49d5-8c52-2b22e4212be5-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/merlin_151762272_cc443df7-e087-49d5-8c52-2b22e4212be5-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":682,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/merlin_151762272_cc443df7-e087-49d5-8c52-2b22e4212be5-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1349,
+                     "width":2024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/13nymanafort-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/13nymanafort-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/merlin_151762272_cc443df7-e087-49d5-8c52-2b22e4212be5-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/nyregion/13nymanafort/merlin_151762272_cc443df7-e087-49d5-8c52-2b22e4212be5-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/interactive/2019/03/13/world/boeing-737-crash-investigation.html",
+         "adx_keywords":"Boeing 737 Max Groundings and Safety Concerns (2019);Airlines and Airplanes;Boeing Company;Federal Aviation Administration;Aviation Accidents, Safety and Disasters",
+         "column":"",
+         "section":"World",
+         "byline":"By JAMES GLANZ, K.K. REBECCA LAI and JIN WU",
+         "type":"Interactive",
+         "title":"Why Investigators Fear the Two Boeing 737s Crashed for Similar Reasons",
+         "abstract":"The planes flew in similar erratic patterns, suggesting to experts that an automated system might have malfunctioned on both flights.",
+         "published_date":"2019-03-13",
+         "source":"The New York Times",
+         "id":100000006409385,
+         "asset_id":100000006409385,
+         "views":11,
+         "des_facet":[
+            "BOEING 737 MAX GROUNDINGS AND SAFETY CONCERNS (2019)",
+            "AIRLINES AND AIRPLANES",
+            "AVIATION ACCIDENTS, SAFETY AND DISASTERS"
+         ],
+         "org_facet":[
+            "BOEING COMPANY",
+            "FEDERAL AVIATION ADMINISTRATION"
+         ],
+         "per_facet":"",
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":null,
+               "copyright":null,
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-square320-v7.png",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-thumbStandard-v7.png",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-articleInline-v7.png",
+                     "format":"Normal",
+                     "height":126,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-sfSpan-v7.png",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-jumbo-v7.png",
+                     "format":"Jumbo",
+                     "height":681,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-superJumbo-v7.png",
+                     "format":"superJumbo",
+                     "height":1331,
+                     "width":2000
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-square640-v7.png",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-thumbLarge-v7.png",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-mediumThreeByTwo210-v7.png",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/boeing-737-crash-promo-1552525399018/boeing-737-crash-promo-1552525399018-mediumThreeByTwo440-v7.png",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/interactive/2019/03/14/arts/design/hudson-yards-nyc.html",
+         "adx_keywords":"Architecture;Hudson Yards (Manhattan, NY);Shed (Manhattan, NY);Real Estate (Commercial);Ross, Stephen M;Related Cos;Oxford Properties Group",
+         "column":"",
+         "section":"Arts",
+         "byline":"By MICHAEL KIMMELMAN",
+         "type":"Interactive",
+         "title":"Hudson Yards Is Manhattan’s Biggest, Newest, Slickest Gated Community. Is This the Neighborhood New York Deserves?",
+         "abstract":"Hudson Yards presented the city with a grand opportunity to remake Manhattan’s West Side. But what has arrived? A review of the most ambitious private development in New York in a century.",
+         "published_date":"2019-03-14",
+         "source":"The New York Times",
+         "id":100000006408502,
+         "asset_id":100000006408502,
+         "views":12,
+         "des_facet":[
+            "ARCHITECTURE",
+            "REAL ESTATE (COMMERCIAL)"
+         ],
+         "org_facet":[
+            "SHED (MANHATTAN, NY)",
+            "RELATED COS",
+            "OXFORD PROPERTIES GROUP"
+         ],
+         "per_facet":[
+            "ROSS, STEPHEN M"
+         ],
+         "geo_facet":[
+            "HUDSON YARDS (MANHATTAN, NY)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":800,
+                     "width":1200
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/15/technology/pewdiepie-new-zealand-shooting.html",
+         "adx_keywords":"Christchurch, New Zealand, Attack (March 2019);Kjellberg, Felix (PewDiePie);YouTube.com;Discrimination;Fringe Groups and Movements;Social Media",
+         "column":null,
+         "section":"Technology",
+         "byline":"By NIRAJ CHOKSHI",
+         "type":"Article",
+         "title":"PewDiePie Put in Spotlight After New Zealand Shooting",
+         "abstract":"The killer urged people to “subscribe to PewDiePie,” the pseudonym of the YouTube star Felix Kjellberg, who said this “absolutely sickened” him.",
+         "published_date":"2019-03-15",
+         "source":"The New York Times",
+         "id":100000006412330,
+         "asset_id":100000006412330,
+         "views":13,
+         "des_facet":[
+            "CHRISTCHURCH, NEW ZEALAND, ATTACK (MARCH 2019)",
+            "SOCIAL MEDIA"
+         ],
+         "org_facet":[
+            "YOUTUBE.COM",
+            "DISCRIMINATION",
+            "FRINGE GROUPS AND MOVEMENTS"
+         ],
+         "per_facet":[
+            "KJELLBERG, FELIX (PEWDIEPIE)"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Felix Kjellberg, the YouTube star better known as PewDiePie, has 89 million subscribers. He stopped in New York in 2015 to promote a book.",
+               "copyright":"John Lamparski/Getty Images",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-sfSpan.jpg",
+                     "format":"Large",
+                     "height":264,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1244,
+                     "width":1864
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/world/15xp-pewdiepie/15xp-pewdiepie-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/16/business/local-recycling-costs.html",
+         "adx_keywords":"Plastic Bags;Waste Materials and Disposal;Recycling of Waste Materials;Waste Management Inc;China;United States;Urban Areas",
+         "column":null,
+         "section":"Business",
+         "byline":"By MICHAEL CORKERY",
+         "type":"Article",
+         "title":"As Costs Skyrocket, More U.S. Cities Stop Recycling",
+         "abstract":"With China no longer accepting used plastic and paper, communities are facing steep collection bills, forcing them to end their programs or burn or bury more waste.",
+         "published_date":"2019-03-16",
+         "source":"The New York Times",
+         "id":100000006413771,
+         "asset_id":100000006413771,
+         "views":14,
+         "des_facet":[
+            "PLASTIC BAGS",
+            "WASTE MATERIALS AND DISPOSAL",
+            "RECYCLING OF WASTE MATERIALS"
+         ],
+         "org_facet":[
+            "WASTE MANAGEMENT INC",
+            "URBAN AREAS"
+         ],
+         "per_facet":"",
+         "geo_facet":[
+            "CHINA",
+            "UNITED STATES"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Recycling and garbage bins in Sunrise, Fla., which has decided to burn its recycling collections in a facility that turns waste into energy.",
+               "copyright":"Scott McIntyre for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1366,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/17/business/17recycling-jump1sub/17recycling-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/13/technology/facebook-data-deals-investigation.html",
+         "adx_keywords":"Facebook Inc;Data-Mining and Database Marketing;Privacy;Computers and the Internet;Social Media;Search Engines;Amazon.com Inc;Apple Inc;Microsoft Corp;Sony Corporation;Cambridge Analytica;Federal Bureau of Investigation;Federal Trade Commission;Securities and Exchange Commission;Justice Department;Zuckerberg, Mark E",
+         "column":null,
+         "section":"Technology",
+         "byline":"By MICHAEL LaFORGIA, MATTHEW ROSENBERG and GABRIEL J.X. DANCE",
+         "type":"Article",
+         "title":"Facebook’s Data Deals Are Under Criminal Investigation",
+         "abstract":"A federal grand jury is looking at partnerships that gave major tech companies broad access to Facebook users’ information.",
+         "published_date":"2019-03-13",
+         "source":"The New York Times",
+         "id":100000006407543,
+         "asset_id":100000006407543,
+         "views":15,
+         "des_facet":[
+            "DATA-MINING AND DATABASE MARKETING",
+            "COMPUTERS AND THE INTERNET",
+            "SOCIAL MEDIA"
+         ],
+         "org_facet":[
+            "FACEBOOK INC",
+            "PRIVACY",
+            "SEARCH ENGINES",
+            "AMAZON.COM INC",
+            "APPLE INC",
+            "MICROSOFT CORP",
+            "SONY CORPORATION",
+            "CAMBRIDGE ANALYTICA",
+            "FEDERAL BUREAU OF INVESTIGATION",
+            "FEDERAL TRADE COMMISSION",
+            "SECURITIES AND EXCHANGE COMMISSION",
+            "JUSTICE DEPARTMENT"
+         ],
+         "per_facet":[
+            "ZUCKERBERG, MARK E"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Facebook’s offices in Menlo Park, Calif. A federal grand jury is looking at partnerships that gave tech companies broad access to Facebook users’ information.",
+               "copyright":"Jason Henry for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-square320-v3.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-thumbStandard-v3.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-articleInline-v2.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-sfSpan-v2.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-jumbo-v2.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-superJumbo-v2.jpg",
+                     "format":"superJumbo",
+                     "height":1366,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-square640-v3.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-thumbLarge-v3.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/13/us/00TECH-top/00TECH-top-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/14/us/politics/senate-vote-trump-national-emergency.html",
+         "adx_keywords":"Senate;War and Emergency Powers (US);Trump, Donald J;Vetoes (US);Democratic Party;Republican Party;House of Representatives;United States Politics and Government;Border Barriers;Federal Budget (US);Constitution (US);Law and Legislation",
+         "column":null,
+         "section":"U.S.",
+         "byline":"By EMILY COCHRANE and GLENN THRUSH",
+         "type":"Article",
+         "title":"Senate Rejects Trump’s Border Emergency Declaration, Setting Up First Veto",
+         "abstract":"The Senate voted to overturn President Trump’s national emergency declaration, delivering a bipartisan rebuke for what lawmakers in both parties saw as executive overreach.",
+         "published_date":"2019-03-14",
+         "source":"The New York Times",
+         "id":100000006409399,
+         "asset_id":100000006409399,
+         "views":16,
+         "des_facet":[
+            "VETOES (US)",
+            "UNITED STATES POLITICS AND GOVERNMENT",
+            "FEDERAL BUDGET (US)",
+            "CONSTITUTION (US)"
+         ],
+         "org_facet":[
+            "SENATE",
+            "WAR AND EMERGENCY POWERS (US)",
+            "DEMOCRATIC PARTY",
+            "REPUBLICAN PARTY",
+            "HOUSE OF REPRESENTATIVES",
+            "BORDER BARRIERS",
+            "LAW AND LEGISLATION"
+         ],
+         "per_facet":[
+            "TRUMP, DONALD J"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Senator Susan Collins, Republican of Maine, voted Thursday in favor of the resolution to overturn President Trump’s emergency declaration.",
+               "copyright":"Erin Schaff/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/14dc-emergency-sub-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/14dc-emergency-sub-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/merlin_152071863_6fa2c335-912a-475d-bc7f-04e7d31435df-articleInline.jpg",
+                     "format":"Normal",
+                     "height":127,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/merlin_152071863_6fa2c335-912a-475d-bc7f-04e7d31435df-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/merlin_152071863_6fa2c335-912a-475d-bc7f-04e7d31435df-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":683,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/merlin_152071863_6fa2c335-912a-475d-bc7f-04e7d31435df-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1365,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/14dc-emergency-sub-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/14dc-emergency-sub-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/merlin_152071863_6fa2c335-912a-475d-bc7f-04e7d31435df-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/14/us/politics/14dc-emergency-sub/merlin_152071863_6fa2c335-912a-475d-bc7f-04e7d31435df-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/18/obituaries/alan-krueger-dead.html",
+         "adx_keywords":"Economics (Theory and Philosophy);Deaths (Obituaries);Krueger, Alan B;Princeton University;Clinton, Bill;Obama, Barack;United States Economy",
+         "column":"",
+         "section":"Obituaries",
+         "byline":"By BEN CASSELMAN and JIM TANKERSLEY",
+         "type":"Article",
+         "title":"Alan B. Krueger, Economic Aide to Clinton and Obama, Is Dead at 58",
+         "abstract":"A labor economist, Princeton scholar, Treasury official and chairman of the Council of Economic Advisers. The police said the cause was suicide.",
+         "published_date":"2019-03-18",
+         "source":"The New York Times",
+         "id":100000006415812,
+         "asset_id":100000006415812,
+         "views":17,
+         "des_facet":[
+            "ECONOMICS (THEORY AND PHILOSOPHY)",
+            "DEATHS (OBITUARIES)",
+            "UNITED STATES ECONOMY"
+         ],
+         "org_facet":[
+            "PRINCETON UNIVERSITY"
+         ],
+         "per_facet":[
+            "KRUEGER, ALAN B",
+            "CLINTON, BILL",
+            "OBAMA, BARACK"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Barack Obama introduced Alan B. Krueger as the next chairman of the Council of Economic Advisers in a Rose Garden ceremony at the White House in August 2011.",
+               "copyright":"Larry Downing/Reuters",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/18krueger3-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/18krueger3-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/merlin_48472972_eec20f0d-8872-40e8-a366-679acb0a085b-articleInline.jpg",
+                     "format":"Normal",
+                     "height":140,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/18krueger3-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/merlin_48472972_eec20f0d-8872-40e8-a366-679acb0a085b-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":752,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/merlin_48472972_eec20f0d-8872-40e8-a366-679acb0a085b-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":1505,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/18krueger3-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/18krueger3-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/18krueger3-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/obituaries/19krueger-obit1/18krueger3-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/2019/03/18/nyregion/black-students-nyc-high-schools.html",
+         "adx_keywords":"Blacks;Stuyvesant High School;Bronx High School of Science;Admissions Standards;Tests and Examinations;Education (K-12);Race and Ethnicity;Brooklyn Technical High School;de Blasio, Bill;New York City;Education (Secondary);Hispanic-Americans;Asian-Americans",
+         "column":"",
+         "section":"New York",
+         "byline":"By ELIZA SHAPIRO",
+         "type":"Article",
+         "title":"Only 7 Black Students Got Into Stuyvesant, N.Y.’s Most Selective High School, Out of 895 Spots",
+         "abstract":"The tiny number of black students offered admission to New York City’s elite public high schools adds pressure on officials to confront the challenge of integrating those schools.",
+         "published_date":"2019-03-18",
+         "source":"The New York Times",
+         "id":100000006415234,
+         "asset_id":100000006415234,
+         "views":18,
+         "des_facet":[
+            "TESTS AND EXAMINATIONS",
+            "EDUCATION (K-12)"
+         ],
+         "org_facet":[
+            "BLACKS",
+            "STUYVESANT HIGH SCHOOL",
+            "BRONX HIGH SCHOOL OF SCIENCE",
+            "ADMISSIONS STANDARDS",
+            "RACE AND ETHNICITY",
+            "BROOKLYN TECHNICAL HIGH SCHOOL",
+            "EDUCATION (SECONDARY)",
+            "HISPANIC-AMERICANS",
+            "ASIAN-AMERICANS"
+         ],
+         "per_facet":[
+            "DE BLASIO, BILL"
+         ],
+         "geo_facet":[
+            "NEW YORK CITY"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Students at Stuyvesant High School, where only seven black applicants gained admission on Monday.",
+               "copyright":"Christopher Lee for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-square320-v2.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-articleInline-v2.jpg",
+                     "format":"Normal",
+                     "height":136,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-sfSpan-v2.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-jumbo-v2.jpg",
+                     "format":"Jumbo",
+                     "height":731,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-superJumbo-v2.jpg",
+                     "format":"superJumbo",
+                     "height":1463,
+                     "width":2048
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-square640-v2.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-thumbLarge-v2.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-mediumThreeByTwo210-v3.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/19/nyregion/19specializedjp-promo/19specializedjp-promo-mediumThreeByTwo440-v3.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/interactive/2019/03/20/us/politics/mueller-investigation-people-events.html",
+         "adx_keywords":"Russian Interference in 2016 US Elections and Ties to Trump Associates;Mueller, Robert S III;Trump, Donald J;WikiLeaks;Russia;Putin, Vladimir V;Cohen, Michael D (1966- );Manafort, Paul J;Flynn, Michael T;Papadopoulos, George (1987- )",
+         "column":"",
+         "section":"U.S.",
+         "byline":"By LARRY BUCHANAN and KAREN YOURISH",
+         "type":"Interactive",
+         "title":"The Mueller Report Is Highly Anticipated. Here’s What We Already Know.",
+         "abstract":"More than two years of criminal indictments and steady revelations about Trump campaign contacts with Russians reveal the scope of the special counsel investigation.",
+         "published_date":"2019-03-20",
+         "source":"The New York Times",
+         "id":100000006399782,
+         "asset_id":100000006399782,
+         "views":19,
+         "des_facet":[
+            "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+         ],
+         "org_facet":[
+            "WIKILEAKS"
+         ],
+         "per_facet":[
+            "MUELLER, ROBERT S III",
+            "TRUMP, DONALD J",
+            "PUTIN, VLADIMIR V",
+            "COHEN, MICHAEL D (1966- )",
+            "MANAFORT, PAUL J",
+            "FLYNN, MICHAEL T",
+            "PAPADOPOULOS, GEORGE (1987- )"
+         ],
+         "geo_facet":[
+            "RUSSIA"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-square320-v3.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-thumbStandard-v4.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-articleInline-v2.jpg",
+                     "format":"Normal",
+                     "height":126,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-sfSpan-v3.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-jumbo-v2.jpg",
+                     "format":"Jumbo",
+                     "height":681,
+                     "width":1024
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-superJumbo-v2.jpg",
+                     "format":"superJumbo",
+                     "height":1331,
+                     "width":2000
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-square640-v3.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-thumbLarge-v4.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-mediumThreeByTwo210-v3.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2019/03/15/us/mueller-report-people-events-promo-1552676143429/mueller-report-people-events-promo-1552676143429-mediumThreeByTwo440-v3.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "url":"https://www.nytimes.com/interactive/2019/arts/television/best-movies-on-netflix.html",
+         "adx_keywords":"Netflix Inc;Movies;Video Recordings, Downloads and Streaming",
+         "column":"",
+         "section":"Arts",
+         "byline":"By JASON BAILEY",
+         "type":"Interactive",
+         "title":"The 50 Best Movies on Netflix Right Now",
+         "abstract":"We’ve plucked out the 50 best films currently streaming on Netflix in the United States. Take a look.",
+         "published_date":"2019-03-06",
+         "source":"The New York Times",
+         "id":100000006330108,
+         "asset_id":100000006330108,
+         "views":20,
+         "des_facet":[
+            "MOVIES",
+            "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"
+         ],
+         "org_facet":[
+            "NETFLIX INC"
+         ],
+         "per_facet":"",
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Uma Thurman in “Pulp Fiction.”",
+               "copyright":"Linda R. Chen/Miramax Films",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-square320.jpg",
+                     "format":"square320",
+                     "height":320,
+                     "width":320
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-articleInline.jpg",
+                     "format":"Normal",
+                     "height":129,
+                     "width":190
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-sfSpan.jpg",
+                     "format":"Large",
+                     "height":263,
+                     "width":395
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-jumbo.jpg",
+                     "format":"Jumbo",
+                     "height":653,
+                     "width":962
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-superJumbo.jpg",
+                     "format":"superJumbo",
+                     "height":653,
+                     "width":962
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-square640.jpg",
+                     "format":"square640",
+                     "height":640,
+                     "width":640
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-thumbLarge.jpg",
+                     "format":"Large Thumbnail",
+                     "height":150,
+                     "width":150
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
