@@ -24,9 +24,10 @@ class ArticlesListViewController: UIViewController {
         articlesTableView.delegate = self
         articlesTableView.dataSource = self
         articlesTableView.tableFooterView = UIView.init()
+        getTheArticlesInfo()
     }
     
-    override func viewWillAppear(_ animated: Bool) {
+    func getTheArticlesInfo() -> Void {
         // Asking presentor to fetch the articles list
         showProgressIndicator(view: self.view)
         presentor?.startFetchingArticlesList()
@@ -107,7 +108,7 @@ extension ArticlesListViewController:UITableViewDelegate, UITableViewDataSource{
 
 class ArticlesCell:UITableViewCell{
     
-    @IBOutlet weak var articleImageView: UIImageView!
+    @IBOutlet weak var articleImageView: CustomImage!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var byLineLabel: UILabel!
     @IBOutlet weak var publishedDateButton: UIButton!

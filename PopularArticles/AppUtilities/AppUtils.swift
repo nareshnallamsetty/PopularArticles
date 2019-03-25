@@ -32,3 +32,11 @@ func hideProgressIndicator(view:UIView){
     }
     
 }
+
+
+extension UIColor {
+    class func fromRGB(R:CGFloat,G:CGFloat,B:CGFloat, alpha:CGFloat) -> UIColor {
+        return UIColor.init(red:R/255, green: G/255, blue: B/255, alpha: alpha)
+    }
+}
+

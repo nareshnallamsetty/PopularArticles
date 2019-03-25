@@ -23,6 +23,6 @@ let ARTICLE_DEFAULT_IMAGE = "Article"
 
 
 let ARTICLE_DETAILS_TITLE = "Article Details"
-let ARTICLES_LIST_TITLE = "Articles List"
+let ARTICLES_LIST_TITLE = "NY Times Most Popular"
 
 
