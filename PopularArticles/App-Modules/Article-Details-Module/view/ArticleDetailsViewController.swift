@@ -31,13 +31,18 @@ class ArticleDetailsViewController: UIViewController {
         abstractLabel.text =  self.articleDetails.abstract ?? ""
         
         // Setting up the square image
+        showProgressIndicator(view: self.view)
         let imageUrl = getSquareImageURL()
         if let url = URL(string: imageUrl) {
-            self.articleImageView.sd_setImage(with: url, placeholderImage: UIImage(named: ARTICLE_DEFAULT_IMAGE))
+            self.articleImageView.sd_setImage(with: url, completed: { (imageData, error, type, url) in
+                hideProgressIndicator(view: self.view)
+            })
         } else {
             if let encodedURLString = imageUrl.addingPercentEncoding(withAllowedCharacters: NSCharacterSet.urlQueryAllowed) {
                 if let url = URL(string: encodedURLString) {
-                    self.articleImageView.sd_setImage(with: url, placeholderImage: UIImage(named: ARTICLE_DEFAULT_IMAGE))
+                    self.articleImageView.sd_setImage(with: url, completed: { (imageData, error, type, url) in
+                        hideProgressIndicator(view: self.view)
+                    })
                 }
             }
         }
